@@ -7,22 +7,20 @@
     {"id": 5, "role":"citizen"}
   ],
   "players":[
-    "Imam Reza Uni":[
-      {"id": 1, "name":"Ali Yaqoubian"},
-      {"id": 2, "name":"Mr7"},
-      {"id": 3, "name":"Sajjad Asadi"},
-      {"id": 4, "name":"Mohammadjavad Gholizade"},
-      {"id": 5, "name":"Jusef Farahmand"},
-      {"id": 6, "name":"Mohammad Alimardani"},
-      {"id": 7, "name":"Sadegh Saman"},
-      {"id": 8, "name":"Mahdiar Alizade"},
-      {"id": 9, "name":"Iman Langaran"},
-      {"id": 10, "name":"Amirhosein Akbarzade"},
-      {"id": 11, "name":"Mohammad Ghofrani"},
-      {"id": 12, "name":"Abolfazl Nezami"},
-      {"id": 13, "name":"Mohammad Raeisi"},
-      {"id": 14, "name":"Mahdi Moradi"},
-      {"id": 15, "name":"Mohammad Salari"}
-    ]
+    {"id": 1, "name":"Ali Yaqoubian"},
+    {"id": 2, "name":"Mr7"},
+    {"id": 3, "name":"Sajjad Asadi"},
+    {"id": 4, "name":"Mohammadjavad Gholizade"},
+    {"id": 5, "name":"Jusef Farahmand"},
+    {"id": 6, "name":"Mohammad Alimardani"},
+    {"id": 7, "name":"Sadegh Saman"},
+    {"id": 8, "name":"Mahdiar Alizade"},
+    {"id": 9, "name":"Iman Langaran"},
+    {"id": 10, "name":"Amirhosein Akbarzade"},
+    {"id": 11, "name":"Mohammad Ghofrani"},
+    {"id": 12, "name":"Abolfazl Nezami"},
+    {"id": 13, "name":"Mohammad Raeisi"},
+    {"id": 14, "name":"Mahdi Moradi"},
+    {"id": 15, "name":"Mohammad Salari"}
   ]
 }
